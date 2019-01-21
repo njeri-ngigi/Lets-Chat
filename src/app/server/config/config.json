@@ -1,0 +1,18 @@
+{
+  "development": {
+    "username": "njeringigi",
+    "password": null,
+    "database": "letschat",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "njeringigi",
+    "password": null,
+    "database": "letschattest",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+  }
+}
